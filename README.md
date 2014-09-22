@@ -1,4 +1,4 @@
-FORK for testing purphoses.
+FORKED for testing purphoses.
 ===========================
 
 I've written a new modem module that works better, called `node-modem`
