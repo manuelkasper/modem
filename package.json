@@ -22,6 +22,6 @@
   },
   "dependencies" : {
     "serialport" : ">= 1.1.1",
-    "pdu" : ">= 1.1.0"
+    "pdu" : "alexislg2/pdu"
   }
 }
