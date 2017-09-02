@@ -21,7 +21,7 @@
   },
   "dependencies" : {
     "once": "^1.3.0",
-    "serialport" : ">= 1.1.1",
-    "pdu" : "alexislg2/pdu"
+    "serialport" : "^5.0.0",
+    "pdu" : "manuelkasper/pdu"
   }
 }
